@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+.portada{
+    background-image: url(../img/futbol.jpg);
+    height: 1024px;
+    background-size: cover;
+}
+
+div label{
+    font-size: 18px;
+}
